@@ -15,6 +15,9 @@ Input: First Name(String), Last Name(String), Pin Code(int), a key(n-int)(must b
 How to get user id?
 You can easily get the user id as follows:- LastLetter of smaller string among first and last name + entire longer string + digit at position n in the pin when traversing the pin from left to right + digit at position n in the pin when traversing the pin from right to left.
 
-Go to the source code and let me know if there is any issues at @agraharivivek13@gmail.com
+Go to the source code https://github.com/Vivekagrahari13/User_Id_Generation/blob/main/UserIdGeneration.java and enjoy the coding journey.
+Let me know if there is any issues at @agraharivivek13@gmail.com
+
+Thank you!!
 
 
